@@ -13,7 +13,7 @@ Welcome to my GitHub space! I'm an aspiring full-stack developer passionate abou
 
 
 ## 📂 Featured Projects
-- 📊 [Attendance Percentage Calculator](https://github.com/sarfrazmohammed181/attendance-calculator) – Calculate academic attendance with a clean UI
+- 📊 [Attendance Percentage Calculator](https://github.com/Sarfraz-03/Attendance_Calculator) – Calculate academic attendance with a clean UI
 
 
 ## 📫 Connect with Me
