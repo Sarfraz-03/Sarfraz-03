@@ -8,6 +8,8 @@ Welcome to my GitHub space! I'm an aspiring full-stack developer passionate abou
 - **Backend:** Node.js, Express.js, Python,c
 - **Database:** My Sql, MongoDB
 - **Version Control:** Git & GitHub
+- **Cloud computing**
+- **AI/ML**
 - **Other Tools:** VS Code, Postman, Netlify, Render,Arduino
 
 
