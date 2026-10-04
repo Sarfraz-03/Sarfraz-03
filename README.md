@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Mohammed Sarfraz!
 
-### 🚀 Web Developer | MERN Stack Enthusiast | AI Explorer | IoT Developer | Engineering Student.
-Welcome to my GitHub space! I'm an aspiring full-stack developer passionate about building responsive web applications and deploying live projects. I’m currently pursuing my B.E. in Computer Science & Engineering, and diving deep into hands-on development and problem-solving.
+### 🚀 Web Developer | MERN Stack Enthusiast | AI Explorer | IoT Developer .
+I’m a Computer Science Engineering graduate and Website Developer Intern passionate about building responsive, user-friendly web applications and practical software solutions.
+
+My interests span Web Development, Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy turning ideas into working applications, exploring new technologies, solving real-world problems, and continuously improving my development skills through hands-on projects.
+
+Here, you’ll find my web development projects, AI/ML applications, experiments, and other technical work as I continue learning, building, and growing as a software developer.
 
 ## 🛠️ Tech Skills
 - **Frontend:** HTML, CSS, JavaScript, React
